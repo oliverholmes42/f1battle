@@ -1,0 +1,6 @@
+// styles/globals.scss
+
+@import 'variables'; // your custom overrides
+@import "bootstrap-icons/font/bootstrap-icons";
+@import '../../node_modules/bootstrap/scss/bootstrap'; // Bootstrap with your variables applied
+

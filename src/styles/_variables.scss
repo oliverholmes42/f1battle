@@ -1,0 +1,13 @@
+// styles/_variables.scss
+
+// Override Bootstrap's primary color
+$primary: #580BC2;
+$black: #1e1e1e;
+
+.card {
+  @extend .rounded-4;
+  @extend .shadow-sm;
+  @extend .p-3;
+  @extend .text-center;
+}
+
